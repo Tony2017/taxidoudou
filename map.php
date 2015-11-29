@@ -1,1 +1,1 @@
-<div id="map" class="col-lg-12">map</div>
+<section id="map" class="col-lg-12">map</section>

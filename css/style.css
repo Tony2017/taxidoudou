@@ -76,6 +76,16 @@ ul > li > a{
 	padding-right: 50%;
 }
 
+section{
+  padding: 100px 0px;
+}
+section#accueil{
+  background-color: red;
+}
+.text-center {
+    text-align: center;
+}
+
 /**
  --END-- BOOTSTRAP SECTION --END-- **/
 
