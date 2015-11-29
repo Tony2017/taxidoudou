@@ -1,1 +1,1 @@
-<div>accueil</div>
+<div id="accueil" class="col-lg-12">accueil</div>

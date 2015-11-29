@@ -1,1 +1,1 @@
-<div>flotte</div>
+<div id="flotte" class="col-lg-12">flotte</div>

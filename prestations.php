@@ -1,1 +1,1 @@
-<div>prestations</div>
+<div id="prestations" class="col-lg-12">prestations</div>

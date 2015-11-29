@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <header>
    <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container-fluid">
@@ -20,4 +21,8 @@
         </div>
       </div>
     </nav>
+=======
+<header id="header" class="col-lg-12">
+   header
+>>>>>>> origin/master
 </header>
