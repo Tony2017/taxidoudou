@@ -1,0 +1,13 @@
+/* This change is done to make links on the navbar centered. By default isn't made by bootstrap.
+Don't delete it ! */
+@media (min-width: 768px) {
+    .navbar .navbar-nav {
+        display: inline-block;
+        float: none;
+        vertical-align: top;
+    }
+
+    .navbar .navbar-collapse {
+        text-align: center;
+    }
+}
