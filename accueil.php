@@ -1,3 +1,4 @@
-<section id="accueil" class="col-lg-10 col-lg-offset-1 text-center">
-	accueil
+<section id="accueil">
+	<h1>Taxi Estavayer</h1>
+	<h2>Taxi sur Estavayer, Taxi de nuit</h2>
 </section>

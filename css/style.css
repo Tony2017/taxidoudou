@@ -41,53 +41,88 @@
   src: local("PT Sans Bold"), local("PTSans-Bold"), url("http://fonts.gstatic.com/s/ptsans/v8/0XxGQsSc1g4rdRdjJKZrNPk_vArhqVIZ0nv9q090hN8.woff2") format("woff2");
 }
 
-*{
-	font-family: "PT Sans", sans-serif;
+body{
+  font-family: "PT Sans", sans-serif;
 }
 
 /**
- --END-- FONTS --END-- **/
+--END-- FONTS --END-- **/
 
- /****** BOOTSTRAP SECTION ******/
+/****** BOOTSTRAP SECTION ******/
 /*** This section modify all***/
 /***   bootstrap elements   ***/
 
 /* This change is done to make links on the navbar centered. By default isn't made by bootstrap.
 Don't delete it ! */
 @media (min-width: 768px) {
-    .navbar .navbar-nav {
-        display: inline-block;
-        float: none;
-        vertical-align: top;
-    }
+  .navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    vertical-align: top;
+  }
 
-    .navbar .navbar-collapse {
-        text-align: center;
-    }
+  .navbar .navbar-collapse {
+    text-align: center;
+  }
 }
 
 ul > li > a{
-	font-family: "Lato", sans-serif;
-	font-weight: 700;
-	font-size: 21px;
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-size: 21px;
 }
 
 .navbar-right > li > a{
-	padding-right: 50%;
+  padding-right: 50%;
 }
-
-section{
-  padding: 100px 0px;
-}
-section#accueil{
-  background-color: red;
-}
-.text-center {
-    text-align: center;
-}
-
 /**
- --END-- BOOTSTRAP SECTION --END-- **/
+--END-- BOOTSTRAP SECTION --END-- **/
 
 
-
+/****** BODY ******/
+#container{
+  width: 100%;
+  height: 1200px;
+  margin: 0;
+  padding: 0;
+}
+section{
+  height: 50%;
+  width: 100%;
+}
+/** ACCUEIL **/
+#accueil{
+  display: block;
+  margin: 0px;
+  margin-top: 100px;
+  background-color: #919191;
+  background: url("img/bgtaxi.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#accueil > h1{
+  padding-top: 100px;
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-size: 114px;
+  line-height: 1;
+  letter-spacing: -2px;
+  color: white;
+  text-align: center;
+}
+#accueil > h2{
+  font-weight: 100;
+  font-style: normal;
+  font-family: "Lato",sans-serif;
+  color: #FFF;
+  font-size: 100px;
+  line-height: 1.1;
+  letter-spacing: 0px;
+  text-align: center;
+}
+/** --END-- ACCUEIL --END-- **/
+.text-center {
+  text-align: center;
+}
+/**
+--END-- BODY --END-- **/
