@@ -1,1 +1,1 @@
-<div>accroche</div>
+<div id="accroche" class="col-lg-12">accroche</div>

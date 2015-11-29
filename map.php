@@ -1,1 +1,1 @@
-<div>map</div>
+<div id="map" class="col-lg-12">map</div>
