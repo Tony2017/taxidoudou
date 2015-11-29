@@ -1,32 +1,3 @@
-/****** BOOTSTRAP SECTION ******/
-/*** This section modify all***/
-/***   bootstrap elements   ***/
-
-/* This change is done to make links on the navbar centered. By default isn't made by bootstrap.
-Don't delete it ! */
-@media (min-width: 768px) {
-    .navbar .navbar-nav {
-        display: inline-block;
-        float: none;
-        vertical-align: top;
-    }
-
-    .navbar .navbar-collapse {
-        text-align: center;
-    }
-}
-
-/* Modify height of navbar */
-.navbar-nav > li > a, .navbar-brand {
-    padding-top:4px !important; 
-    padding-bottom:0 !important;
-    height: 100px;
-}
-.navbar {min-height:100px !important;}
-/**
- --END-- BOOTSTRAP SECTION --END-- **/
-
-
 /****** FONTS ******/
 @font-face {
   font-family: "Lato";
@@ -70,8 +41,43 @@ Don't delete it ! */
   src: local("PT Sans Bold"), local("PTSans-Bold"), url("http://fonts.gstatic.com/s/ptsans/v8/0XxGQsSc1g4rdRdjJKZrNPk_vArhqVIZ0nv9q090hN8.woff2") format("woff2");
 }
 
+*{
+	font-family: "PT Sans", sans-serif;
+}
+
 /**
  --END-- FONTS --END-- **/
+
+ /****** BOOTSTRAP SECTION ******/
+/*** This section modify all***/
+/***   bootstrap elements   ***/
+
+/* This change is done to make links on the navbar centered. By default isn't made by bootstrap.
+Don't delete it ! */
+@media (min-width: 768px) {
+    .navbar .navbar-nav {
+        display: inline-block;
+        float: none;
+        vertical-align: top;
+    }
+
+    .navbar .navbar-collapse {
+        text-align: center;
+    }
+}
+
+ul > li > a{
+	font-family: "Lato", sans-serif;
+	font-weight: 700;
+	font-size: 21px;
+}
+
+.navbar-right > li > a{
+	padding-right: 50%;
+}
+
+/**
+ --END-- BOOTSTRAP SECTION --END-- **/
 
 
 
