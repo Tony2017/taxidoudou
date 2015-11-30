@@ -27,8 +27,6 @@ ul > li > a{
 
 /** ACCUEIL **/
 #accueil{
-  display: block;
-  margin: 0;
   background-color: #919191;
   background: url("img/taxi-cab-car-woman-7405-modif.jpg");
   background-size: cover;
@@ -37,7 +35,6 @@ ul > li > a{
   text-shadow: 0 0 7px rgba(0,0,0, 1);
 }
 #accueil > h1{
-  padding-top: 150px;
   font-family: "Lato", sans-serif;
   font-weight: 900;
   font-size: 114px;
@@ -57,22 +54,14 @@ ul > li > a{
   text-align: center;
 }
 #accroche{
-  margin: 0px;
-  padding: 0px;
-  border-style: none;
-  border-color: #FFF;
-  border-width: 0px;
-  border-radius: 0px;
   background-color: #FFD405;
 }
 #accroche > h1{
-  padding-top: 150px;
   font-family: "Lato", sans-serif;
   font-size: 114px;
   line-height: 1;
   color: #000000;
   text-align: center;
-  margin: 0;
 }
 #accroche > h2{
   font-weight: 100;
