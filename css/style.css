@@ -19,13 +19,30 @@ ul > li > a{
 .navbar-right > li > a{
   padding-right: 50%;
 }
-/**
---END-- BOOTSTRAP SECTION --END-- **/
-
-
+.navbar{
+  margin:0;
+  border-radius: 0;
+}
 /****** BODY ******/
 
-/** ACCUEIL **/
+h1, h2{
+    font-family: "Lato", sans-serif;
+    text-align: center;
+    margin: 0;
+}
+h1 {
+  font-weight: 900;
+  font-size: 114px;
+  line-height: 1;
+  letter-spacing: -2px;
+}
+h2{
+  font-weight: 100;
+  font-style: normal;
+  font-size: 100px;
+  line-height: 1.1;
+  letter-spacing: 0px;
+}
 #accueil{
   background-color: #919191;
   background: url("img/taxi-cab-car-woman-7405-modif.jpg");
@@ -34,45 +51,17 @@ ul > li > a{
   background-position: center;
   text-shadow: 0 0 7px rgba(0,0,0, 1);
 }
-#accueil > h1{
-  font-family: "Lato", sans-serif;
-  font-weight: 900;
-  font-size: 114px;
-  line-height: 1;
-  letter-spacing: -2px;
-  color: white;
-  text-align: center;
+#accueil > h1, #accueil > h2{
+  color: #ffffff;
 }
-#accueil > h2{
-  font-weight: 100;
-  font-style: normal;
-  font-family: "Lato",sans-serif;
-  color: #FFF;
-  font-size: 100px;
-  line-height: 1.1;
-  letter-spacing: 0px;
-  text-align: center;
-}
+
 #accroche{
   background-color: #FFD405;
 }
 #accroche > h1{
-  font-family: "Lato", sans-serif;
-  font-size: 114px;
-  line-height: 1;
+  font-weight: inherit;
   color: #000000;
-  text-align: center;
 }
 #accroche > h2{
-  font-weight: 100;
-  font-style: normal;
-  font-family: "Lato",sans-serif;
   color: #000000;
-  font-size: 100px;
-  line-height: 1.1;
-  letter-spacing: 0px;
-  text-align: center;
-}
-.text-center {
-  text-align: center;
 }
