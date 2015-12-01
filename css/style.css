@@ -26,6 +26,8 @@ ul > li > a{
 /****** BODY ******/
 body, html{
   height: 100%;
+  margin: 0;
+  padding: 0;
 }
 h1, h2{
     font-family: "Lato", sans-serif;
@@ -47,7 +49,8 @@ h2{
 }
 
 #accueil{
-  padding: 20vh;
+  /*padding: 20vh;*/
+  padding-top: 20vh;
   background-color: #919191;
   background: url("img/taxi-cab-car-woman-7405-modif.jpg");
   background-size: cover;
@@ -55,19 +58,32 @@ h2{
   background-position: center;
   text-shadow: 0 0 7px rgba(0,0,0, 1);
 }
-@media (max-width: 800px){
+
+@media (max-width: 1200px){
   h1{
-    font-size: 82px;
+    font-size: 76px;
   }
   h2{
-    font-size: 72px;
+    font-size: 89px;
   }
   #accueil{
-    padding: 10vh;
+    /*padding: 10vh;*/
     padding-top: 20vh;
   }
 }
-@media (max-width: 360px){
+@media (max-width: 992px){
+  h1{
+    font-size: 100px;
+  }
+  h2{
+    font-size: 89px;
+  }
+  #accueil{
+    /*padding: 10vh;*/
+    padding-top: 20vh;
+  }
+}
+@media (max-width: 768px){
   h1{
     font-size: 52px;
   }
@@ -75,15 +91,17 @@ h2{
     font-size: 37px;
   }
   #accueil{
-    padding: 5vh;
+    /*padding: 5vh;*/
     padding-top: 20vh;
   }
 }
 
-#accueil > h1, #accueil > h2{
+#accueil > div > h1, #accueil > div > h2{
   color: #ffffff;
 }
 #accroche{
+  display: inline-block;
+  width: 100%;
   min-height: 50vh;
   padding: 10vh;
   background-color: #FFD405;
@@ -96,6 +114,14 @@ h2{
   color: #000000;
 }
 #accueil{
-  min-height: 75vh;
+  display: inline-block;
+  min-height: 80vh;
   text-align: middle;
+  width: 100%;
+  margin-bottom: -5px;
+}
+
+.right-seo-block{
+  height: 42vh;
+  background-color: rgba(255, 212, 5, 0.9);
 }
