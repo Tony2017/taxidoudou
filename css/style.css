@@ -45,6 +45,7 @@ h2{
   line-height: 1.1;
   letter-spacing: 0px;
 }
+
 #accueil{
   padding: 20vh;
   background-color: #919191;
@@ -54,6 +55,31 @@ h2{
   background-position: center;
   text-shadow: 0 0 7px rgba(0,0,0, 1);
 }
+@media (max-width: 800px){
+  h1{
+    font-size: 82px;
+  }
+  h2{
+    font-size: 72px;
+  }
+  #accueil{
+    padding: 10vh;
+    padding-top: 20vh;
+  }
+}
+@media (max-width: 360px){
+  h1{
+    font-size: 52px;
+  }
+  h2{
+    font-size: 37px;
+  }
+  #accueil{
+    padding: 5vh;
+    padding-top: 20vh;
+  }
+}
+
 #accueil > h1, #accueil > h2{
   color: #ffffff;
 }
