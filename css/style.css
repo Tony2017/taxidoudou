@@ -31,7 +31,6 @@ body, html{
 }
 h1, h2{
     font-family: "Lato", sans-serif;
-    text-align: center;
     margin: 0;
 }
 h1 {
@@ -120,8 +119,12 @@ h2{
   width: 100%;
   margin-bottom: -5px;
 }
-
+.titles-container{
+  margin-bottom: 4vh;
+  text-align: left;
+}
 .right-seo-block{
   height: 42vh;
   background-color: rgba(255, 212, 5, 0.9);
+  margin-bottom: 4vh;
 }

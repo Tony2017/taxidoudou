@@ -1,5 +1,5 @@
 <section id="accueil">
-	<div class="col-lg-offset-1 col-lg-7 col-md-offset-0 col-md-6 col-sm-offset-0 col-sm-12 col-xs-offset-0 col-xs-12">
+	<div class="col-lg-offset-1 col-lg-7 col-md-offset-0 col-md-6 col-sm-offset-0 col-sm-12 col-xs-offset-0 col-xs-12 titles-container">
 		<h1>Taxi Estavayer</h1>
 		<h2>Taxi sur Estavayer, Taxi de nuit</h2>
 	</div>
