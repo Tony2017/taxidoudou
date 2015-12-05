@@ -16,9 +16,6 @@ ul > li > a{
   font-size: 21px;
 }
 
-.navbar-right > li > a{
-  padding-right: 50%;
-}
 .navbar{
   margin:0;
   border-radius: 0;
