@@ -55,8 +55,12 @@ h2{
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+}
+
+.titles-container > h1, .titles-container > h2{
   text-shadow: 0 0 7px rgba(0,0,0, 1);
 }
+
 
 @media (max-width: 1200px){
   h1{
@@ -123,8 +127,23 @@ h2{
   margin-bottom: 4vh;
   text-align: left;
 }
-.right-seo-block{
-  height: 42vh;
+
+#main-box{
+  padding-bottom: 16px;
   background-color: rgba(255, 212, 5, 0.9);
   margin-bottom: 4vh;
+}
+.box{
+  background-color: white;
+  padding: 32px;
+  margin-top: 1%;
+}
+.box-title{
+  background-color: initial;
+  margin-bottom: initial;
+  padding: initial;
+  padding: 10px 0px 8px 32px;
+}
+.box-number{
+  padding: 36px;
 }
