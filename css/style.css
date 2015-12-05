@@ -112,6 +112,7 @@ h2{
   min-height: 50vh;
   padding: 10vh;
   background-color: #FFD405;
+  text-align: center;
 }
 #accroche > h1{
   font-weight: inherit;
