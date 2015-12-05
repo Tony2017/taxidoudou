@@ -111,7 +111,7 @@ h2{
   width: 100%;
   min-height: 50vh;
   padding: 10vh;
-  background-color: #FFD405;
+  background-color: rgb(255, 212, 5);
   text-align: center;
 }
 #accroche > h1{
@@ -152,3 +152,29 @@ h2{
 .box-number{
   padding: 36px;
 }
+
+#prestations{
+  background: url('img/20151205062512.jpg') no-repeat 0% 35%;
+  background-size: cover;
+}
+
+.marketing-prestations{
+  padding-top: 15vh;
+  padding-bottom: 15vh;
+}
+
+.moto-text{
+  font-family: "Lato", sans-serif;
+  font-weight: inherit;
+  font-weight: 500;
+  font-size: 4.3vh;
+  color: white;
+}
+
+.marketing-prestations > .moto-text > strong{
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-size: 4.8vh;
+  color: white;
+}
+
