@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=7ba5f0b906f56555a3c8)
- * Config saved to config.json and https://gist.github.com/7ba5f0b906f56555a3c8
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=1cf7ff436f0ffd7833df)
+ * Config saved to config.json and https://gist.github.com/1cf7ff436f0ffd7833df
  */
 /*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
@@ -4502,22 +4502,22 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-default {
-  background-color: #262626;
-  border-color: #151515;
+  background-color: #080808;
+  border-color: #000000;
 }
 .navbar-default .navbar-brand {
-  color: #777777;
+  color: #9d9d9d;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-  color: #5e5e5e;
+  color: #848484;
   background-color: transparent;
 }
 .navbar-default .navbar-text {
-  color: #777777;
+  color: #9d9d9d;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #777777;
+  color: #9d9d9d;
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
@@ -4527,8 +4527,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  color: #555555;
-  background-color: #151515;
+  color: #9d9d9d;
+  background-color: #000000;
 }
 .navbar-default .navbar-nav > .disabled > a,
 .navbar-default .navbar-nav > .disabled > a:hover,
@@ -4548,17 +4548,17 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
-  border-color: #151515;
+  border-color: #000000;
 }
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-  background-color: #151515;
-  color: #555555;
+  background-color: #000000;
+  color: #9d9d9d;
 }
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
-    color: #777777;
+    color: #9d9d9d;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
@@ -4568,8 +4568,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
-    color: #555555;
-    background-color: #151515;
+    color: #9d9d9d;
+    background-color: #000000;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:hover,
@@ -4579,13 +4579,13 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-default .navbar-link {
-  color: #777777;
+  color: #9d9d9d;
 }
 .navbar-default .navbar-link:hover {
   color: #333333;
 }
 .navbar-default .btn-link {
-  color: #777777;
+  color: #9d9d9d;
 }
 .navbar-default .btn-link:hover,
 .navbar-default .btn-link:focus {
