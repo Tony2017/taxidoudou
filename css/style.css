@@ -109,8 +109,7 @@ h2{
 #accroche{
   display: inline-block;
   width: 100%;
-  min-height: 50vh;
-  padding: 10vh;
+  padding: 15vh;
   background-color: rgb(255, 212, 5);
   text-align: center;
 }
@@ -161,6 +160,7 @@ h2{
 .marketing-prestations{
   padding-top: 15vh;
   padding-bottom: 15vh;
+  text-align: center;
 }
 
 .moto-text{
@@ -176,5 +176,6 @@ h2{
   font-weight: 700;
   font-size: 4.8vh;
   color: white;
+
 }
 

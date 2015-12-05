@@ -11,13 +11,31 @@
 				</p>
 			</div>
 			<div class="col-md-6 marketing-prestations">
-				<h4>Meilleures prix</h4>
+				<p class="moto-text">
+					<strong>RAPIDE</strong>
+					<strong>&</strong>
+					<br />
+					SÛR
+					<br />
+				</p>
 			</div>
 			<div class="col-md-6 marketing-prestations">
-				<h4>Voitures de luxe</h4>
+				<p class="moto-text">
+					<strong>RAPIDE</strong>
+					<strong>&</strong>
+					<br />
+					SÛR
+					<br />
+				</p>
 			</div>
 			<div class="col-md-6 marketing-prestations">
-				<h4>Voyage partout & en tout temps</h4>
+				<p class="moto-text">
+					<strong>RAPIDE</strong>
+					<strong>&</strong>
+					<br />
+					SÛR
+					<br />
+				</p>
 			</div>
 		</div>
 	</div>
