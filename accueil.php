@@ -11,10 +11,10 @@
     		079 846 29 84
 		</div>
 		<div class="box">
-    		079 846 29 84
+    		24h/24
 		</div>
 		<div class="box">
-    		079 846 29 84
+    		Nous trouver
 		</div>
 	</div>
 </section>
