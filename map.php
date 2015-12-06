@@ -1,1 +1,1 @@
-<section id="map" class="col-lg-12" style="width:100%;height:600px;background-color:#CCC;border:0">map</section>
+<section id="map" class="col-lg-12" style="width:100%;height:50vh;background-color:#CCC;border:0">map</section>
