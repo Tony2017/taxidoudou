@@ -21,6 +21,7 @@
 				</p>
 			</div>
 			<div class="col-md-6 marketing-prestations">
+				<img src="css/img/vehicles_adapte.png" alt="véhicule adapté" class="images-prestations"/>
 				<p class="moto-text">
 					<strong>TRANSPORT</strong>
 					<br />
@@ -29,11 +30,12 @@
 				</p>
 			</div>
 			<div class="col-md-6 marketing-prestations">
+				<img src="css/img/24_24.png" alt="véhicule adapté" class="images-prestations"/>
 				<p class="moto-text">
-					<strong>RAPIDE</strong>
+					<strong>DE NUIT</strong>
 					<strong>&</strong>
 					<br />
-					SÛR
+					7/7
 					<br />
 				</p>
 			</div>
