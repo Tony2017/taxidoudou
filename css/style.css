@@ -55,7 +55,7 @@ h2{
   /*padding: 20vh;*/
   padding-top: 20vh;
   background-color: #919191;
-  background: url("img/taxi-cab-car-woman-7405-modif.jpg");
+  background: url("img/taxi-cab-car-woman-7405-modif.jpg") no-repeat fixed 0% 0%;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
