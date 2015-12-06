@@ -2,6 +2,7 @@
 	<div class="container">
 		<div class="row ">
 			<div class="col-md-6 marketing-prestations">
+				<img src="css/img/speedometer.png" alt="speedometer" class="images-prestations"/>
 				<p class="moto-text">
 					<strong>RAPIDE</strong>
 					<strong>&</strong>
@@ -11,20 +12,19 @@
 				</p>
 			</div>
 			<div class="col-md-6 marketing-prestations">
+				<img src="css/img/good.png" alt="best-prices" class="images-prestations"/>
 				<p class="moto-text">
-					<strong>RAPIDE</strong>
-					<strong>&</strong>
+					<strong>MEILLEURS</strong>
 					<br />
-					SÛR
+					PRIX
 					<br />
 				</p>
 			</div>
 			<div class="col-md-6 marketing-prestations">
 				<p class="moto-text">
-					<strong>RAPIDE</strong>
-					<strong>&</strong>
+					<strong>TRANSPORT</strong>
 					<br />
-					SÛR
+					ADAPTÉ
 					<br />
 				</p>
 			</div>
