@@ -19,7 +19,7 @@
         <li><a href="#">Nous trouver</a></li>
         <li><a href="#">Notre flotte</a></li>
       </ul>
-      <ul class="nav navbar-nav navbar-right">
+      <ul class="nav navbar-nav navbar-right hidden-sm">
         <li><a href="#">079 846 29 84</a></li>
       </ul>
 
