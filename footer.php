@@ -1,15 +1,15 @@
-<footer id="footer" class="col-lg-12">
+<footer id="footer">
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-4">
-				<h3 class="top-footer-title">Notre entreprise</h3>
-			</div>
-			<div class="col-sm-4">
-				<h3 class="top-footer-title">Nos services</h3>
-			</div>
-			<div class="col-sm-4">
-				<h3 class="top-footer-title">asd</h3>
+			<div class="col-sm-12">
+				<h3 class="top-footer-title"><img src="css/img/TaxiDoudou_yellow.png" alt="TaxiDoudou" /></h3>
+				<div class="link-button-container">
+					<a class="links-button" href="https://www.facebook.com/taxidoudou/"><img src="css/img/facebook.png" alt="Joins us on facebook" class="facebook" /></a>
+				</div>
 			</div>
 		</div>
+	</div>
+	<div id="copyright">
+		<p>Taxi Doudou © 2015 Tous droits réservés.<br />Création par Anthony Da Silva et Dardan Iljazi</p>
 	</div>
 </footer>
