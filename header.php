@@ -22,7 +22,7 @@
         <li><a href="#">Notre flotte</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right hidden-sm">
-        <li><a href="#">079 846 29 84</a></li>
+        <li><a href="#"><img src="css/img/phone.png" alt="Phone" class="top-right-navbar-phone"></img>079 846 29 84</a></li>
       </ul>
 
     </div>

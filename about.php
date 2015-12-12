@@ -2,7 +2,10 @@
 	<div class="container">
 	<p class="moto-text">
 		<strong>A PROPOS</strong>
-		DE l'ENTREPRISE
+		DE NOUS
+	</p>
+	<p class="text-about">
+		Taxi Doudou est une 
 	</p>
 		<div class="row">
         	
