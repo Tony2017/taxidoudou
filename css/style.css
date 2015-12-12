@@ -11,7 +11,7 @@
 }
 
 ul > li > a{
-  font-family: "Lato", sans-serif;
+  font-family: "Lato Light", sans-serif;
   font-weight: 700;
   font-size: 21px;
 }
@@ -22,9 +22,9 @@ ul > li > a{
 }
 
 .navbar-toggle .icon-bar {
-    width: 28px;
-    height: 4px;
-    border-radius: 0px;
+  width: 28px;
+  height: 4px;
+  border-radius: 0px;
 }
 
 /****** BODY ******/
@@ -32,19 +32,18 @@ body, html{
   height: 100%;
   margin: 0;
   padding: 0;
+  font-family: "PT Sans", sans-serif;
 }
-h1, h2{
-    font-family: "Lato", sans-serif;
-    margin: 0;
-}
-h1 {
-  font-weight: 900;
+h1{
+  font-family: "Lato Black", sans-serif;
+  margin: 0;
   font-size: 114px;
   line-height: 1;
   letter-spacing: -2px;
 }
+
 h2{
-  font-weight: 100;
+  font-family: "Lato Hairdline";
   font-style: normal;
   font-size: 100px;
   line-height: 1.1;
@@ -126,7 +125,7 @@ h2{
   text-align: center;
 }
 #accroche > h1{
-  font-weight: inherit;
+  font-family: "Lato Bold";
   color: #000000;
 }
 #accroche > h2{
@@ -176,9 +175,7 @@ h2{
 }
 
 .moto-text{
-  font-family: "Lato", sans-serif;
-  font-weight: inherit;
-  font-weight: 500;
+  font-family: "Lato Light", sans-serif;
   font-size: 5vh;
   color: white;
   display: inline-block;
@@ -186,17 +183,41 @@ h2{
 }
 
 .marketing-prestations > .moto-text > strong{
-  font-family: "Lato", sans-serif;
-  font-weight: 700;
+  font-family: "Lato Bold", sans-serif;
+
   font-size: 5.5vh;
   color: white;
 }
 
 .images-prestations{
+  max-width: 28%;
+  width: auto;
+  height: auto;
   opacity: 0.8;
   filter: alpha(opacity=80);
   display: inline-block;
   vertical-align: middle;
   float: left;
-  margin-left: 7vh;
+  margin-left: 1vw;
+}
+
+#footer{
+  min-height: 40vh;
+  background-color: #333;
+}
+
+#about{
+  min-height: 70vh;
+  background-color: #FFF;
+}
+
+#about .moto-text{
+  font-family: "Lato Hairdline", sans-serif;
+  color: #1A1A1A;
+  font-size: 4vw;
+  margin-top: 4.66vh;
+}
+
+#about .moto-text > strong{
+  font-family: "Lato Bold", sans-serif;
 }

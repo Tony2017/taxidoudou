@@ -9,6 +9,7 @@
         <?php include("accueil.php"); ?> 
         <?php include("accroche.php"); ?>
         <?php include("prestations.php"); ?>
+        <?php include("about.php"); ?>
         <?php include("map.php"); ?>
         <?php include("footer.php"); ?> 
     </section>    
