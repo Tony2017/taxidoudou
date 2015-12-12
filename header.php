@@ -1,5 +1,5 @@
 <header>
- <nav class="navbar navbar-inverse">
+ <nav class="navbar navbar-default navbar-fixed-top">
   <div class="container">
     <div class="navbar-header">
       
@@ -9,7 +9,9 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#">TaxiDoudou</a>
+      <a class="navbar-brand" href="#">
+        <img src="css/img/TaxiDoudou.png" alt="TaxiDoudou" style="margin-top: -7px; max-width:100px;" />
+      </a>
     </div>
     
     <div id="navbar" class="navbar-collapse collapse">
