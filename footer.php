@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-12">
-				<h3 class="top-footer-title"><img src="css/img/TaxiDoudou_big.png" alt="TaxiDoudou" /></h3>
+				<h3 class="top-footer-title"><img src="css/img/TaxiDoudou_yellow.png" alt="TaxiDoudou" /></h3>
 				<div class="link-button-container">
 					<a class="links-button" href="https://www.facebook.com/taxidoudou/"><img src="css/img/facebook.png" alt="Joins us on facebook" class="facebook" /></a>
 				</div>
