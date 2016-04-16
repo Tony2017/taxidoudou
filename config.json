@@ -140,20 +140,20 @@
     "@container-md": "@container-desktop",
     "@container-large-desktop": "(1140px + @grid-gutter-width)",
     "@container-lg": "@container-large-desktop",
-    "@navbar-height": "100px",
+    "@navbar-height": "95px",
     "@navbar-margin-bottom": "@line-height-computed",
     "@navbar-border-radius": "@border-radius-base",
     "@navbar-padding-horizontal": "floor((@grid-gutter-width / 2))",
     "@navbar-padding-vertical": "((@navbar-height - @line-height-computed) / 2)",
     "@navbar-collapse-max-height": "340px",
     "@navbar-default-color": "#fff",
-    "@navbar-default-bg": "rgba(0, 0, 0, 0.50)",
+    "@navbar-default-bg": "#EB4032",
     "@navbar-default-border": "darken(@navbar-default-bg, 6.5%)",
     "@navbar-default-link-color": "#fff",
     "@navbar-default-link-hover-color": "#fff",
     "@navbar-default-link-hover-bg": "transparent",
-    "@navbar-default-link-active-color": "#9D9D9D",
-    "@navbar-default-link-active-bg": "darken(@navbar-default-bg, 6.5%)",
+    "@navbar-default-link-active-color": "#FFF",
+    "@navbar-default-link-active-bg": "#E7100E",
     "@navbar-default-link-disabled-color": "#ccc",
     "@navbar-default-link-disabled-bg": "transparent",
     "@navbar-default-brand-color": "@navbar-default-link-color",
@@ -431,5 +431,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=8587376e49cc39f722c3"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=0cbbd727dc6be2577499"
 }
