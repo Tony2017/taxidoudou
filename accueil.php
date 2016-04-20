@@ -1,8 +1,8 @@
 <section id="accueil">
-	<div id="accueil-overlay">
+	<!--<div id="accueil-overlay">
 		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 titles-container">
 			<?php 
-
+			/*
 			if(array_key_exists("HTTP_REFERER", $_SERVER)){
 				if(strpos($_SERVER['HTTP_REFERER'], "taxiestavayer") !== FALSE){
 					echo '<h1>Taxi Estavayer</h1>';
@@ -17,7 +17,7 @@
 			else{
 				echo '<h1>Taxi Doudou</h1>';
 				echo '<h3>Commander un taxi en Suisse romande<br />rapidement et simplement</h3>';
-			}
+			}*/
 			?>
 			
 		</div>
@@ -35,5 +35,5 @@
 	    		<div class="img-box-container"><img src="css/img/localize.png" alt="Localize" class="img-box" /></div><p class="inline vertical-middle">Nous trouver</p>
 			</div>
 		</div>-->
-	</div>
+	</div>-->
 </section>

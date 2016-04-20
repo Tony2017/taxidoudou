@@ -57,6 +57,10 @@ ul > li > a{
 }
 
 
+header{
+  position: relative;
+  z-index: 2;
+}
 
 /****** BODY ******/
 body, html{
@@ -104,11 +108,28 @@ h3{
   /*padding: 20vh;*/
   
   background-color: #191C20;
-  background: url("img/taxi-cab-car-woman-7405-modif.jpg") no-repeat;
+  background: url("img/drive-863057_1280.jpg") no-repeat;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  height: 75vh;
+  height: 60vh;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+  opacity: 0.25;
+
+  -webkit-filter: brightness(80%);
+  -moz-filter: brightness(80%);
+  -o-filter: brightness(80%);
+  -ms-filter: brightness(80%);
+  filter: brightness(80%);
+  -webkit-filter: blur(3px);
+  -moz-filter: blur(3px);
+  -o-filter: blur(3px);
+  -ms-filter: blur(3px);
+  filter: blur(3px);
+
 }
 
 #accueil > #accueil-overlay{
@@ -116,7 +137,7 @@ h3{
   top: 0;
   background-color: #191C20;
   width: 100%;
-  height: 80vh;
+  height: 60vh;
   opacity: 0.9;
   z-index: 1;
   padding: 25vh;
@@ -127,14 +148,14 @@ h3{
   opacity: 1;
   z-index: 2;
   text-align: center;
-  color: #FFF;
+  color: #3c3c3c;
 }
 
 .titles-container > h3{
   font-family: "Lato", sans-serif;
   font-weight: 600;
   z-index: 1;
-  color: #FFF;
+  color: #3c3c3c;
 }
 .top-right-navbar-phone{
   height:32px; 
@@ -215,10 +236,20 @@ h3{
   text-align: center;
   background-color: #EB4032;
   padding: 8vh 0vh 8vh 0vh;
+  opacity: 1; 
+  filter: alpha(opacity=100);
+}
+
+.box-img img{
+  opacity: 0.75; 
+  filter: alpha(opacity=75);
 }
 
 .box-services{
-  background-color: #F9F9F9;
+  /*background-color: #F9F9F9;*/
+  opacity: 1; 
+  filter: alpha(opacity=100);
+
 }
 
 .box-services > h3{
@@ -250,7 +281,7 @@ h3{
 }
 #accueil{
   display: inline-block;
-  min-height: 80vh;
+  min-height: 75vh;
   text-align: middle;
   width: 100%;
   margin-bottom: -5px;
@@ -258,6 +289,7 @@ h3{
 .titles-container{
   margin-bottom: 5vh;
   text-align: left;
+  padding-top: 15vh;
 }
 
 #main-box{
