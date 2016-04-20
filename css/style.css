@@ -517,3 +517,7 @@ h3{
   margin: 0;
   padding: 0;
 }
+
+.bigger{
+  font-size: 3em;
+}

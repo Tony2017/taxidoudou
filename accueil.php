@@ -27,13 +27,13 @@
 					<h3>Transport<br />rapide</h3>
 				</section>
 				<section class="col-md-4">
-					<h3>Service 24H/24</h3>
+					<h3 class="bigger">Service 24H/24</h3>
 				</section>
 				<section class="col-md-4">
 					<h3>De nuit 7/7</h3>
 				</section>
 				<section class="col-md-12">
-					<h3>079 846 29 84</h3>
+					<h3 class="bigger">079 846 29 84</h3>
 				</section>
 			</div>
 
