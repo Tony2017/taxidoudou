@@ -1,0 +1,218 @@
+# Webalizer V2.23-05 Incremental Data - 04/19/2016 20:19:36
+2016 4 19 20 19 36
+424 230 9 19 3 9 9675158 46 18 0 0 0
+5 1 128 16 19
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+220 84 3519146 3 29 5 0 0
+95 90 4322822 2 5 5 0 0
+45 41 1740863 3 6 3 0 0
+64 15 92327 5 6 5 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+7 5 29404 2 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+19 18 864564 1 0 0
+22 20 869871 3 0 0
+2 2 3497 1 0 0
+0 0 0 0 0 0
+56 26 918898 3 0 0
+128 46 1778978 24 0 0
+38 19 870785 2 0 0
+36 35 1722072 2 0 0
+76 21 883221 4 0 0
+1 1 2370 1 0 0
+37 36 1728567 2 0 0
+2 1 2931 1 0 0
+0 0 0 0 0 0
+0
+0
+0
+230
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+156
+0
+0
+0
+0
+0
+0
+38
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/css/font.css
+0 22 0 12064 0 0 0 0
+/css/img/speedometer.png
+1 19 0 105085 0 0 0 0
+/js/map.js
+0 21 0 17268 0 0 0 0
+/css/img/phone.png
+1 19 0 12643 0 0 0 0
+/css/img/remorque.png
+1 19 0 17613 0 0 0 0
+/css/img/taxi_luxe.png
+1 19 0 46444 0 0 0 0
+/favicon.ico
+0 3 0 15521 0 0 0 0
+/css/img/good.png
+1 20 0 73833 0 0 0 0
+/css/style.css
+0 22 0 31183 0 0 0 0
+/css/img/city-cars-road-traffic.jpg
+1 20 0 2887034 0 0 0 0
+/css/img/24_24.png
+1 21 0 37450 0 0 0 0
+/css/bootstrap.css
+0 22 0 284569 0 0 0 0
+/
+0 45 0 69770 18 9 0 0
+/css/img/bus.png
+1 20 0 35739 0 0 0 0
+/css/img/facebook.png
+1 20 0 18174 0 0 0 0
+/css/img/vehicles_adapte.png
+1 19 0 91706 0 0 0 0
+/css/img/TaxiDoudou_big.png
+1 19 0 99023 0 0 0 0
+/css/img/taxi-cab-car-woman-7405-modif.jpg
+1 19 0 5732270 0 0 0 0
+/css/img/TaxiDoudou_yellow_little.png
+1 17 0 66266 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+188.63.250.53
+0 284 124 5272097 8 1461093185 0 0
+/
+85.3.181.207
+0 18 18 864003 1 1460842254 0 0
+/
+213.55.184.208
+0 1 1 2370 1 1461097176 0 0
+/
+64.74.215.126
+0 7 5 29404 1 1461050842 0 0
+-
+178.197.232.133
+0 19 18 864566 1 1460912913 0 0
+/
+156.25.4.2
+0 41 21 876089 2 1461078094 0 0
+/
+213.186.33.62
+0 34 34 1715016 2 1460832492 0 0
+/
+64.74.215.139
+0 2 2 3497 1 1460984767 0 0
+/
+213.55.176.154
+0 18 7 48116 1 1461080382 0 0
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+188.63.250.53
+0 19 1 6219 1 1461093185 0 0
+/
+213.55.184.208
+0 1 1 2370 1 1461097176 0 0
+/
+64.74.215.126
+0 7 5 29404 1 1461050842 0 0
+-
+156.25.4.2
+0 19 1 6218 1 1461078094 0 0
+/
+213.55.176.154
+0 18 7 48116 1 1461080382 0 0
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://taxidoudou.ch/
+1 329
+- (Direct Request)
+0 65
+http://taxidoudou.ch/css/style.css
+1 30
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; rv:11.0) like Gecko
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.27+ (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+0 7
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13D15 Saf
+0 37
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+0 280
+Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G935F/G935FXXU1APB4 Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Samsun
+0 19
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 41
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.34 (KHTML, like Gecko) Qt/4.7.4 Safari/534.34
+0 34
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

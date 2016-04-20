@@ -1,3 +1,11 @@
+*{
+    -webkit-transition: all 220ms ease-in-out;
+  -moz-transition: all 220ms ease-in-out;
+  -ms-transition: all 220ms ease-in-out;
+  -o-transition: all 220ms ease-in-out;
+  transition: all 220ms ease-in-out;
+}
+
 @media (min-width: 768px) {
   .navbar .navbar-nav {
     display: inline-block;
@@ -10,6 +18,11 @@
   }
 }
 
+ul .nav .navbar-nav{
+  height: 100%;
+}
+
+
 ul > li > a{
   font-family: "Lato Light", sans-serif;
   font-weight: 700;
@@ -19,6 +32,8 @@ ul > li > a{
 .navbar{
   margin:0;
   border-radius: 0;
+  margin-bottom: 0 !important;
+  overflow: hidden;
 }
 
 .navbar-toggle .icon-bar {
@@ -28,20 +43,21 @@ ul > li > a{
 }
 
 .navbar-default {
-  -webkit-box-shadow: 0px 10px 22px -7px rgba(0,0,0,0.24);
-  -moz-box-shadow: 0px 10px 22px -7px rgba(0,0,0,0.24);
-  box-shadow: 0px 10px 22px -7px rgba(0,0,0,0.24);
+  -webkit-box-shadow: 0px 10px 22px -7px rgba(0,0,0,0.1);
+  -moz-box-shadow: 0px 10px 22px -7px rgba(0,0,0,0.1);
+  box-shadow: 0px 10px 22px -7px rgba(0,0,0,0.1);
 }
-<<<<<<< HEAD
 
-=======
->>>>>>> parent of 1ff9643... Important commit before important changements
+.navbar-nav>li:hover{
+  background-color: #F11616;
+}
+
+.navbar-default .navbar-nav > .active{
+  background-color: #EE0C0D !important;
+}
 
 
-<<<<<<< HEAD
-=======
 
->>>>>>> parent of 2271271... Last ones
 /****** BODY ******/
 body, html{
   height: 100%;
@@ -86,57 +102,46 @@ h3{
 
 #accueil{
   /*padding: 20vh;*/
-<<<<<<< HEAD
-<<<<<<< HEAD
-  padding-top: 30vh;
-  background-color: #919191;
-=======
   
   background-color: #191C20;
->>>>>>> parent of 2271271... Last ones
-=======
-  padding-top: 30vh;
-  background-color: #919191;
->>>>>>> parent of 1ff9643... Important commit before important changements
   background: url("img/taxi-cab-car-woman-7405-modif.jpg") no-repeat;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-<<<<<<< HEAD
-<<<<<<< HEAD
-}
-
-.titles-container > h1, .titles-container > h2, .titles-container > h3{
-  text-shadow: 0 0 7px rgba(0,0,0, 1);
-}
-
-.titles-container > h3{
-  margin-left: 20px;
-=======
   height: 75vh;
-=======
->>>>>>> parent of 1ff9643... Important commit before important changements
+}
+
+#accueil > #accueil-overlay{
+  position: absolute;
+  top: 0;
+  background-color: #191C20;
+  width: 100%;
+  height: 80vh;
+  opacity: 0.9;
+  z-index: 1;
+  padding: 25vh;
 }
 
 .titles-container > h1, .titles-container > h2, .titles-container > h3{
-  text-shadow: 0 0 7px rgba(0,0,0, 1);
+  text-shadow: 0 0 2px rgba(0,0,0, 0.2);
+  opacity: 1;
+  z-index: 2;
+  text-align: center;
+  color: #FFF;
 }
 
 .titles-container > h3{
-<<<<<<< HEAD
   font-family: "Lato", sans-serif;
   font-weight: 600;
   z-index: 1;
   color: #FFF;
->>>>>>> parent of 2271271... Last ones
-=======
-  margin-left: 20px;
->>>>>>> parent of 1ff9643... Important commit before important changements
 }
 .top-right-navbar-phone{
-  height:28px; 
-  margin-right: 20px;
+  height:32px; 
   vertical-align: middle;
+  display: inline-block;
+  padding-left: 20px;
+  margin-top: -6px;
 }
 
 
@@ -203,10 +208,6 @@ h3{
 
 #accueil > div > h1, #accueil > div > h2, #accueil > div > h3{
   color: #ffffff;
-<<<<<<< HEAD
-<<<<<<< HEAD
-}
-=======
   opacity: 1;
 }
 
@@ -228,24 +229,20 @@ h3{
   margin-bottom: 10vh;
 }
 
->>>>>>> parent of 2271271... Last ones
-=======
-}
->>>>>>> parent of 1ff9643... Important commit before important changements
 #accroche{
   display: inline-block;
   width: 100%;
   padding: 15vh;
-  background-color: #EE352A;
+  background-color: #121212;
   text-align: center;
 }
 #accroche > h2{
   font-family: "Lato Bold";
   font-size: 10vh;
-  color: #000000;
+  color: #EAEAEA;
 }
 #accroche > h3{
-  color: #000000;
+  color: #fff;
   font-size: 6vh;
   font-weight: bold;
 }
@@ -264,12 +261,24 @@ h3{
 #main-box{
   position: relative;
   padding-bottom: 16px;
-  background-color: rgba(238, 53, 42, 0.95);
+  background-color: rgba(231, 16, 14, 0.55);
   margin-bottom: 4vh;
   margin-top: -5vh;
 }
+#main-box:hover{
+  background-color: rgba(231, 16, 14, 1);
+}
+
+#main-box:hover > .box{
+  background-color: rgba(255, 255, 255,  1);
+}
+
+#main-box:hover > .box-title{
+  background-color: rgba(255, 255, 255, 0);
+}
+
 .box{
-  background-color: #fff;
+  background-color: rgba(255, 255, 255, 0.55);
   padding: 26px;
   margin-top: 1%;
 }
@@ -300,6 +309,10 @@ h3{
 .box-number{
   font-family: "Lato Bold",sans-serif;
   font-size: 3vh;
+}
+
+.box-number:hover{
+  background-color: #FF3334;
 }
 
 .box-content{
@@ -437,7 +450,7 @@ h3{
 }
 
 .links-button:hover{
-    background-color: rgba(255, 212, 5, 0.7);
+    background-color: #E90F0E;
 }
 
 .facebook{
