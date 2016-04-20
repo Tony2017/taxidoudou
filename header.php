@@ -15,14 +15,18 @@
     </div>
     
     <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav navbar-left">
+        <li><img src="css/img/phone.png" alt="Phone" class="top-right-navbar-phone"><a href="#" style="display: inline-block;"></img>079 846 29 84</a></li>
+      </ul>
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Accueil</a></li>
         <li><a href="#">Prestations</a></li>
         <li><a href="#">Nous trouver</a></li>
-        <li><a href="#">Notre flotte</a></li>
+        <li><a href="#">Nous contacter</a></li>
       </ul>
-      <ul class="nav navbar-nav navbar-right hidden-sm">
-        <li><img src="css/img/phone.png" alt="Phone" class="top-right-navbar-phone"><a href="#" style="display: inline-block;"></img>079 846 29 84</a></li>
+      
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#" style="display: inline-block" class="facebook-top-right-container"><img src="css/img/facebook.png" alt="Facebook" class="facebook-top-right" /></a></li>
       </ul>
 
     </div>

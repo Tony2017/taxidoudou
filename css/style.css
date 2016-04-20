@@ -6,6 +6,10 @@
   transition: all 220ms ease-in-out;
 }
 
+.navbar-nav > li > a{
+  line-height: 125% !important;
+}
+
 @media (min-width: 768px) {
   .navbar .navbar-nav {
     display: inline-block;
@@ -34,7 +38,10 @@ ul > li > a{
   border-radius: 0;
   margin-bottom: 0 !important;
   overflow: hidden;
+  border: none !important;
 }
+
+
 
 .navbar-toggle .icon-bar {
   width: 28px;
@@ -55,6 +62,7 @@ ul > li > a{
 .navbar-default .navbar-nav > .active{
   background-color: #EE0C0D !important;
 }
+
 
 
 
@@ -477,3 +485,35 @@ h3{
   letter-spacing: 0px;
 }
 
+.facebook-top-right-container:hover{
+  background-color: #333333 !important;
+  margin-bottom: 0px;
+}
+
+.facebook-top-right{
+  height:30px; 
+  vertical-align: middle;
+  display: inline-block;
+  margin-top: -4px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.under-title-catch{
+  position: absolute;
+  bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  left: 20%;
+  right: 20%;
+  margin-bottom: 35px;
+}
+
+.under-title-catch h3{
+  text-align: center;
+  font-family: "Lato", sans-serif;
+  font-weight: 500;
+  color: white;
+  margin: 0;
+  padding: 0;
+}

@@ -2,8 +2,10 @@
 	<div id="accueil-overlay">
 		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 titles-container">
 			<h1>Taxi Doudou</h1>
-			<h3>Commander un taxi dans en Suisse romande<br />rapidement et simplement</h3>
+			<h3>Commander un taxi <br />rapidement et simplement</h3>		
 		</div>
+
+		
 		<!--<div id="main-box" class="col-lg-offset-0 col-lg-3 col-md-offset-0 col-md-5 col-sm-offset-2 col-sm-8  col-xs-offset-1 col-xs-10">
 			<div class="box box-title">
 				<div class="img-box-container"><img src="css/img/taxi.png" alt="Taxi" class="img-box" /></div><h3 class="inline">Taxi à Estavayer-le-Lac</h3>
@@ -18,5 +20,23 @@
 	    		<div class="img-box-container"><img src="css/img/localize.png" alt="Localize" class="img-box" /></div><p class="inline vertical-middle">Nous trouver</p>
 			</div>
 		</div>-->
+
+		<div class="container">
+			<div class="row under-title-catch">
+				<section class="col-md-4">
+					<h3>Transport<br />rapide</h3>
+				</section>
+				<section class="col-md-4">
+					<h3>Service 24H/24</h3>
+				</section>
+				<section class="col-md-4">
+					<h3>De nuit 7/7</h3>
+				</section>
+				<section class="col-md-12">
+					<h3>079 846 29 84</h3>
+				</section>
+			</div>
+
+		</div>
 	</div>
 </section>
