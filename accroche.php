@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <section id="services">
 	<div class="container">
@@ -26,6 +27,8 @@
 	</div>
 </section>
 >>>>>>> parent of 2271271... Last ones
+=======
+>>>>>>> parent of 1ff9643... Important commit before important changements
 <section id="accroche">		
 	<h2>Service 24H/24H</h2>
 	<h3>079 846 29 84</h3>

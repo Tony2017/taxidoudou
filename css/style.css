@@ -32,7 +32,10 @@ ul > li > a{
   -moz-box-shadow: 0px 10px 22px -7px rgba(0,0,0,0.24);
   box-shadow: 0px 10px 22px -7px rgba(0,0,0,0.24);
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of 1ff9643... Important commit before important changements
 
 
 <<<<<<< HEAD
@@ -84,16 +87,22 @@ h3{
 #accueil{
   /*padding: 20vh;*/
 <<<<<<< HEAD
+<<<<<<< HEAD
   padding-top: 30vh;
   background-color: #919191;
 =======
   
   background-color: #191C20;
 >>>>>>> parent of 2271271... Last ones
+=======
+  padding-top: 30vh;
+  background-color: #919191;
+>>>>>>> parent of 1ff9643... Important commit before important changements
   background: url("img/taxi-cab-car-woman-7405-modif.jpg") no-repeat;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+<<<<<<< HEAD
 <<<<<<< HEAD
 }
 
@@ -105,33 +114,24 @@ h3{
   margin-left: 20px;
 =======
   height: 75vh;
+=======
+>>>>>>> parent of 1ff9643... Important commit before important changements
 }
 
-#accueil > #accueil-overlay{
-  position: absolute;
-  top: 0;
-  background-color: #191C20;
-  width: 100%;
-  height: 80vh;
-  opacity: 0.9;
-  z-index: 1;
-  padding: 25vh;
-}
-
-.titles-container > h1, .titles-container > h2, .titles-container > h3, .titles-container > h4{
-  text-shadow: 0 0 2px rgba(0,0,0, 0.2);
-  opacity: 1;
-  z-index: 2;
-  text-align: center;
-  color: #FFF;
+.titles-container > h1, .titles-container > h2, .titles-container > h3{
+  text-shadow: 0 0 7px rgba(0,0,0, 1);
 }
 
 .titles-container > h3{
+<<<<<<< HEAD
   font-family: "Lato", sans-serif;
   font-weight: 600;
   z-index: 1;
   color: #FFF;
 >>>>>>> parent of 2271271... Last ones
+=======
+  margin-left: 20px;
+>>>>>>> parent of 1ff9643... Important commit before important changements
 }
 .top-right-navbar-phone{
   height:28px; 
@@ -204,6 +204,7 @@ h3{
 #accueil > div > h1, #accueil > div > h2, #accueil > div > h3{
   color: #ffffff;
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 =======
   opacity: 1;
@@ -228,6 +229,9 @@ h3{
 }
 
 >>>>>>> parent of 2271271... Last ones
+=======
+}
+>>>>>>> parent of 1ff9643... Important commit before important changements
 #accroche{
   display: inline-block;
   width: 100%;

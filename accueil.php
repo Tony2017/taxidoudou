@@ -1,5 +1,8 @@
 <section id="accueil">
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 1ff9643... Important commit before important changements
 	<div class="col-lg-offset-1 col-lg-7 col-md-offset-0 col-md-6 col-sm-offset-0 col-sm-12 col-xs-offset-0 col-xs-12 titles-container">
 		<h1>Taxi Estavayer</h1>
 		<h2>Taxi 24h/24 7/7</h2>
@@ -17,6 +20,7 @@
 		</div>
 		<div class="box box-content">
     		<div class="img-box-container"><img src="css/img/localize.png" alt="Localize" class="img-box" /></div><p class="inline vertical-middle">Nous trouver</p>
+<<<<<<< HEAD
 		</div>
 =======
 	<div id="accueil-overlay">
@@ -56,5 +60,8 @@
 			</div>
 		</div>-->
 >>>>>>> parent of 2271271... Last ones
+=======
+		</div>
+>>>>>>> parent of 1ff9643... Important commit before important changements
 	</div>
 </section>
