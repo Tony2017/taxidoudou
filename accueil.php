@@ -1,5 +1,8 @@
 <section id="accueil">
 	<div id="accueil-overlay">
+		<div class="fast-and-safe">
+
+		</div>
 		<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 titles-container">
 			<h1>Taxi Doudou</h1>
 			<h3>Commander un taxi <br />rapidement et simplement</h3>		
