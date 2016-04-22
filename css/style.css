@@ -117,6 +117,20 @@ ul > li:hover{
   background-color: #333333 !important;
 }
 
+.fast-and-safe > .col-md-3{
+
+}
+
+.fast-and-safe > .col-md-3 > p{
+  font-family: "Lato Light", sans-serif;
+  font-size: 2em;
+  color: white;
+  text-align: center;
+  vertical-align: center;
+  margin-top: -40px;
+  margin-left: 20px;
+}
+
 
 /*
 .navbar-nav > li > a{
