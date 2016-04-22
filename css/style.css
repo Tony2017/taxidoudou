@@ -127,13 +127,13 @@ ul .nav .navbar-nav{
   height: 100%;
 }
 
-*/
+
 ul > li > a{
   font-family: "Lato Light", sans-serif;
   font-weight: 700;
   font-size: 21px;
 }
-/*
+
 .navbar{
   margin:0;
   border-radius: 0;
@@ -213,22 +213,22 @@ h3{
   /*padding: 20vh;*/
   
   background-color: #191C20;
-  background: url("img/taxi-cab-car-woman-7405-modif.jpg") no-repeat fixed;
+  background: url("img/taxi-cab-car-woman-7405-modif.jpg") no-repeat;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  height: 90vh;
+  height: 75vh;
 }
 
 #accueil > #accueil-overlay{
   position: absolute;
   top: 0;
-  background-color: #191C20;
+  background-color: #151515;
   width: 100%;
-  height: 90vh;
-  opacity: 0.95;
+  height: 80vh;
+  opacity: 0.91;
   z-index: 1;
- padding: 25vh;
+  padding: 25vh;
 }
 
 .titles-container > h1, .titles-container > h2, .titles-container > h3{
@@ -322,7 +322,7 @@ h3{
 
 .box-img{
   text-align: center;
-  background-color: #EB4032;
+  background-color: #DF2328;
   padding: 8vh 0vh 8vh 0vh;
 }
 
