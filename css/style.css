@@ -106,6 +106,18 @@
 .navbar-nav > li > a{
   line-height: 180% !important;
 }
+
+ul > li > a{
+  font-family: "Lato Light", sans-serif;
+  font-weight: 700;
+  font-size: 21px;
+}
+
+ul > li:hover{
+  background-color: #333333 !important;
+}
+
+
 /*
 .navbar-nav > li > a{
   line-height: 125% !important;
