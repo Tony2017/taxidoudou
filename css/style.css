@@ -45,10 +45,11 @@
 }
 
 .navbar-default {
-  -webkit-box-shadow: 0px 10px 22px -7px rgba(0,0,0,0.24);
+  /*-webkit-box-shadow: 0px 10px 22px -7px rgba(0,0,0,0.24);
   -moz-box-shadow: 0px 10px 22px -7px rgba(0,0,0,0.24);
-  box-shadow: 0px 10px 22px -7px rgba(0,0,0,0.24);
+  box-shadow: 0px 10px 22px -7px rgba(0,0,0,0.24);*/
   border-color: transparent;
+  background-color: transparent;
 }
 
 .carousel-indicators li{
@@ -239,22 +240,21 @@ h3{
   /*padding: 20vh;*/
   
   background-color: #191C20;
-  background: url("img/taxi-cab-car-woman-7405-modif.jpg") no-repeat;
+  background: url("img/taxi_large.jpeg") no-repeat fixed;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  height: 75vh;
+  height: 100vh;
 }
 
 #accueil > #accueil-overlay{
   position: absolute;
   top: 0;
-  background-color: #151515;
+  background-color: rgba(0, 0,0, 0.9);
   width: 100%;
-  height: 80vh;
-  opacity: 0.91;
+  height: 100vh;
   z-index: 1;
-  padding: 25vh;
+  padding-top: 35vh;
 }
 
 .titles-container > h1, .titles-container > h2, .titles-container > h3{
@@ -482,15 +482,25 @@ h3{
 }
 
 .images-prestations{
+  display: inline-block;
   max-width: 28%;
   width: auto;
   height: auto;
-  opacity: 0.8;
-  filter: alpha(opacity=80);
   display: inline-block;
   vertical-align: middle;
-  float: left;
+
   margin-left: 1vw;
+}
+
+.opacity-80{
+  opacity: 0.8;
+  filter: alpha(opacity=80);
+}
+
+
+.opacity-70{
+  opacity: 0.7;
+  filter: alpha(opacity=70);
 }
 
 #footer{
@@ -628,23 +638,60 @@ h3{
 
 .under-title-catch{
   position: absolute;
-  bottom: 0;
+  bottom: 12%;
   margin-left: auto;
   margin-right: auto;
   left: 20%;
   right: 20%;
   margin-bottom: 35px;
+  display: inline-block;
 }
 
 .under-title-catch h3{
   text-align: center;
   font-family: "Lato", sans-serif;
   font-weight: 500;
-  color: white;
+  color: rgba(255, 255, 255, 0.7);
   margin: 0;
   padding: 0;
+  display: inline-block;
+  vertical-align: middle;
 }
 
 .bigger{
   font-size: 3em;
+}
+
+.bulle{
+  display: inline-block;
+  position: absolute;
+  left: 27%;
+  top: -75%;
+  background-image: url('img/bulle.png');
+  background-repeat: no-repeat;
+  width: 219px;
+  height: 160px;
+  opacity: 0.8;
+  filter: alpha(opacity=80);
+  padding-top: 20px;
+}
+
+.bulle > h4{
+  display: inline-block;
+  font-family: "Lato", sans-serif;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.7em;
+  font-weight: 500;
+  opacity: 1;
+  filter: alpha(opacity=100);
+  vertical-align: middle;
+  text-align: center;
+  width: 100%;
+}
+
+.bulle > img{
+  display: block;
+  vertical-align: middle;
+  margin: auto;
+  text-align: center;
 }

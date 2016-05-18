@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=59acba2f5aff0e7f5ce75e28410e3c10)
- * Config saved to config.json and https://gist.github.com/59acba2f5aff0e7f5ce75e28410e3c10
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=cf004d82c04f68e91469de26a96b6b9f)
+ * Config saved to config.json and https://gist.github.com/cf004d82c04f68e91469de26a96b6b9f
  */
 /*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
@@ -4502,8 +4502,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-default {
-  background-color: rgba(233, 44, 29, 0.98);
-  border-color: rgba(209, 34, 20, 0.98);
+  background-color: #e53e33;
+  border-color: #db281c;
 }
 .navbar-default .navbar-brand {
   color: #ffffff;
@@ -4528,7 +4528,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
   color: #ffecef;
-  background-color: rgba(209, 34, 20, 0.98);
+  background-color: #db281c;
 }
 .navbar-default .navbar-nav > .disabled > a,
 .navbar-default .navbar-nav > .disabled > a:hover,
@@ -4548,12 +4548,12 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
-  border-color: rgba(209, 34, 20, 0.98);
+  border-color: #db281c;
 }
 .navbar-default .navbar-nav > .open > a,
 .navbar-default .navbar-nav > .open > a:hover,
 .navbar-default .navbar-nav > .open > a:focus {
-  background-color: rgba(209, 34, 20, 0.98);
+  background-color: #db281c;
   color: #ffecef;
 }
 @media (max-width: 767px) {
@@ -4569,7 +4569,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
     color: #ffecef;
-    background-color: rgba(209, 34, 20, 0.98);
+    background-color: #db281c;
   }
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:hover,

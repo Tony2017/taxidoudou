@@ -2,6 +2,7 @@
 	<div id="accueil-overlay">
 
 		<div class="col-md-12 titles-container">
+			<div class="bulle "><img src="css/img/good_2.png" alt="Service de qualité"></img><h4>Service de qualité</h4></div>
 			<h1>Taxi Doudou</h1>
 			<h3>Commander un taxi <br />rapidement et simplement</h3>		
 		</div>
@@ -25,16 +26,16 @@
 		<div class="container">
 			<div class="row under-title-catch">
 				<section class="col-md-4">
+					<img src="css/img/vehicles_adapte.png "alt="Rapide et adapté" class="images-prestations opacity-70" />
 					<h3>Transport<br />rapide</h3>
 				</section>
 				<section class="col-md-4">
 					<h3 class="bigger">Service 24H/24</h3>
+					<h3 class="bigger" style="margin-top: 50px; color: rgba(255, 255, 255, 1);">079 846 29 84</h3>
 				</section>
 				<section class="col-md-4">
+					<img src="css/img/24_24.png" alt="7/7" class="images-prestations opacity-70" />
 					<h3>De nuit 7/7</h3>
-				</section>
-				<section class="col-md-12">
-					<h3 class="bigger">079 846 29 84</h3>
 				</section>
 			</div>
 
