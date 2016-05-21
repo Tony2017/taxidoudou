@@ -49,7 +49,7 @@
     -moz-box-shadow: 0px 10px 22px -7px rgba(0,0,0,0.24);
     box-shadow: 0px 10px 22px -7px rgba(0,0,0,0.24);*/
     border-color: transparent;
-    background-color: transparent;
+    background-color: rgba(0, 0, 0, 0.6);
   }
 
   .carousel-indicators li{
@@ -101,7 +101,7 @@
     border-radius: 0;
     margin-bottom: 0 !important;
     overflow: hidden;
-    border: none !important;
+    border-bottom: 2px solid #DC241F !important;
   }
 
   .navbar-nav > li > a{
@@ -199,7 +199,7 @@
     height: 100%;
     margin: 0;
     padding: 0;
-    font-family: "PT Sans", sans-serif;
+    font-family: "Lato Light", sans-serif;
     color: #000;
   }
   h1{
@@ -346,33 +346,58 @@
     opacity: 1;
   }
 
-  .box-img{
-    text-align: center;
-    background-color: #DF2328;
-    padding: 8vh 0vh 8vh 0vh;
+  #services{
+    padding-top: 8vh;
+    padding-bottom: 6vh;
   }
 
   .box-services{
-    background-color: #F9F9F9;
+    background-color: white;
+    border: 1px solid #DC241F;
+    padding: 3vh;
+    color: #e74c3c;
+    text-align: center;
+    margin-bottom: 4vh;
   }
 
-  .box-services > figure > h3{
-    font-family: "Lato Light", sans-serif;
-    font-weight: 800;
+  .box-services > h3{
+    margin-top: 0px;
+    font-family: "Lato Black", sans-serif;
+    font-size: 2.9vh;
+    font-weight: 400;
     text-align: center;
-    color: white;
+    color: #e74c3c;
+    line-height: 2.9vh;
   }
+
+
+  .box-services > p{
+    margin-top: 3vh;
+    font-family: "Lato Light", sans-serif;
+    font-size: 1.8vh;
+    font-weight: 400;
+    text-align: center;
+    color: #e74c3c;
+    line-height: 2vh;
+  }
+
+  .box-img{
+    text-align: center;
+    /*background-color: #DF2328;*/
+    height: 65px;
+  }
+
 
   #accroche{
     display: inline-block;
     width: 100%;
-    padding: 15vh;
-    background-color: #121212;
-    text-align: center;
+    padding: 7vh;
+    background-color: #c0392b;
+    background-image: url('img/accroche_bg.png');
   }
-  #accroche > h2{
+  #accroche  h2{
     font-family: "Lato Bold";
-    font-size: 10vh;
+    font-size: 5vh;
     color: #EAEAEA;
   }
   #accroche > h3{

@@ -1,7 +1,7 @@
 <footer id="about">
 	<div class="container">
 	<p class="moto-text">
-		<strong>À PROPOS</strong>
+		<strong>Qui sommes-nous ?</strong>
 	</p>
 	<p class="text-about">
 		Taxi DouDou, le taxiste là pour vous !
