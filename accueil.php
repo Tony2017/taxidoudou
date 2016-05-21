@@ -31,11 +31,11 @@
 				</section>
 				<section class="col-md-4">
 					<h3 class="bigger">Service 24H/24</h3>
-					<h3 class="bigger animated tada" style="margin-top: 50px; color: rgba(255, 255, 255, 1);">079 846 29 84</h3>
+					<h3 class="bigger animated tada" style="margin-top: 50px; color: rgba(255, 255, 255, 0.85); font-family: 'Lato Black'">079 846 29 84</h3>
 				</section>
 				<section class="col-md-4">
-					<img src="css/img/24_24.png" alt="7/7" class="images-prestations opacity-70" />
-					<h3>De nuit 7/7</h3>
+					<img src="css/img/24_24_big.png" alt="7/7" class="images-prestations opacity-70" style="margin-left: 0px;" />
+					<h3>7/7<br />Jours & Nuits</h3>
 				</section>
 			</div>
 
