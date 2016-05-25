@@ -19,10 +19,10 @@
         <li><img src="css/img/phone.png" alt="Phone" class="top-right-navbar-phone"><a href="#" style="display: inline-block;"></img>079 846 29 84</a></li>
       </ul>
       <ul class="nav navbar-nav">
-        <li class="active hidden-sm"><a href="#">Accueil</a></li>
-        <li><a href="#">Prestations</a></li>
+        <li class="active hidden-sm"><a href="#accueil">Accueil</a></li>
+        <li><a href="#services">Prestations</a></li>
         <li><a href="#">Nous trouver</a></li>
-        <li><a href="#">Nous contacter</a></li>
+        <li><a href="#accroche">Nous contacter</a></li>
       </ul>
       
       <ul class="nav navbar-nav navbar-right hidden-sm">

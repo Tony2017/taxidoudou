@@ -40,7 +40,7 @@
 						<img src="css/img/remorque.png" alt="Taxi de luxe"></img>
 					</figure>
 					<h3>Remorque</h3>
-					<p>Avec notre remarque, transportez jusqu'à 1600 Kg de matériel à travers toute la suisse. Possibilité de location</p>
+					<p>Avec notre remorque, transportez jusqu'à 1600 Kg de matériel à travers toute la Suisse. Possibilité de location</p>
 				</div>
 			</section>
 			<section class="col-md-4">
