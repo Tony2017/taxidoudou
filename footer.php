@@ -10,6 +10,6 @@
 		</div>
 	</div>
 	<div id="copyright">
-		<p>Taxi Doudou © 2015 Tous droits réservés.<br />Création par Anthony Da Silva et Dardan Iljazi</p>
+		<p>Taxi Doudou © 2016 Tous droits réservés.<br />Création par Anthony Da Silva et Dardan Iljazi</p>
 	</div>
 </footer>
